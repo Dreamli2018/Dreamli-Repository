@@ -12,6 +12,7 @@
   </properties>
 
   <dependencies>
+    <!--这是一个测试上传的工程-->
   </dependencies>
   <modules>
     <module>test-web</module>
